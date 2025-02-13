@@ -6,6 +6,10 @@ Maze Solver is an interactive Python project with a Tkinter GUI that generates r
 
 Maze Solver is an interactive Python application that generates and solves mazes with a graphical interface using Tkinter. It demonstrates maze generation with recursive backtracking and solves the maze using BFS, DFS, Dijkstra, and A* algorithms.
 
+# Image
+
+![image alt](https://github.com/SaiSrikarK03/MazeSolver/blob/7f9be97991e1bb34e8600a6aad59aaabc4e027fb/maze.png)
+
 ## Overview
 
 - Maze Generation: Uses a recursive backtracking algorithm to create a maze represented as a 2D grid (walls = 1, passages = 0).
