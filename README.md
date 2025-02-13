@@ -34,10 +34,10 @@ Maze Solver is an interactive Python application that generates and solves mazes
    ```bash
    
    git clone https://github.com/SaiSrikarK03/MazeSolver.git
-   cd maze-solver
+   cd MazeSolver
   Run the application:
   
-    python maze_solver.py
+    python MazeSolver.py
     
 ## Usage
 
